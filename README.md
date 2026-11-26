@@ -76,6 +76,10 @@ Replace the placeholder names with your actual repository URL, repository name a
 - Data is cleared when the program exits.
 - This is an educational project and is not intended for real banking or financial transactions.
 
+##  Project Preview
+
+![Geek Bank Main Menu](screenshots/bank-menu.png)
+
 ##  Project Purpose
 
 This project provided practical experience in Python programming, problem-solving, application logic, user input validation and implementing basic financial operations.
