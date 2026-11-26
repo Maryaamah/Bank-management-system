@@ -78,7 +78,9 @@ Replace the placeholder names with your actual repository URL, repository name a
 
 ##  Project Preview
 
-![Geek Bank Main Menu](screenshots/bank-menu.png)
+## 📸 Project Preview
+
+![Geek Bank Main Menu](GEEK%20BANK.png)
 
 ##  Project Purpose
 
